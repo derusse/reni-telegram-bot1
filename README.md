@@ -4,5 +4,5 @@
 
 ## Файлы
 
-- `main.py` — основной файл с Flask
+- `app.py` — основной файл с Flask
 - `requirements.txt` — зависимости
